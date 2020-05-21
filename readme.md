@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Pruebas**, Larry Plotter Lover
+**Pruebas**, Git & Larry Plotter Lover
